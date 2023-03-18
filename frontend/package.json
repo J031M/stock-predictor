@@ -1,0 +1,12 @@
+{
+  "name": "finpred",
+  "version": "1.0.0",
+  "description": "does stuff",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"open index.html"
+  },
+  "author": "",
+  "license": "ISC"
+}
